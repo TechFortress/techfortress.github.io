@@ -1,4 +1,10 @@
 remote_theme: coogie/oscailte
 
 title: Tech Fortress
-description: Gaming community established in 2013. Hosts Minecraft and Team Fortress 2 servers.
+description: Gaming community established in 2013. Hosts Minecraft and Team Fortress 2 servers. IP: tf.robomwm.com
+
+oscailte:
+  social:
+    github: https://github.com/TechFortress
+  strings:
+    hero_title: "Tech Fortress <br /> Gaming community established in 2013"
