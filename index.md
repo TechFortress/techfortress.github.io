@@ -1,7 +1,3 @@
-# Tech Fortress
-
-Tech Fortress is a gaming community founded in 2013.
-
 - [Rules](rules)
 - [Blog (updates)] (coming soon)
 - [Forum] (coming soon)
