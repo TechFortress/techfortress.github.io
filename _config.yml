@@ -1,11 +1,11 @@
 remote_theme: TechFortress/oscailte
 
 title: Tech Fortress
-# subtitle: A gaming community established in 2013
+subtitle: A gaming community established in 2013
 description: "Gaming community established in 2013. Hosts Minecraft and Team Fortress 2 servers. IP: tf.robomwm.com"
 
 oscailte:
   social:
     github: TechFortress
   strings:
-    hero_title: "Tech Fortress<br />A gaming community founded in 2013"
+    hero_title: "Tech Fortress<br />Minecraft and TF2"
