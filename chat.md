@@ -1,3 +1,9 @@
+---
+layout: page
+title: Chatroom
+permalink: /chat/
+---
+
 <head>
   <style>
       .iframe-container 
