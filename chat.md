@@ -25,5 +25,5 @@ permalink: /chat/
 </head>
 
 #TechFortress IRC channel on irc.spi.gt
-<div class="iframe-container"><iframe loading="lazy" src="https://kiwiirc.com/client/irc.spi.gt/?&theme=cli#TechFortress"></iframe></div>
+<div class="iframe-container"><iframe loading="lazy" src="https://kiwiirc.com/client/irc.spi.gt/#TechFortress"></iframe></div>
 You can also use a [fullscreen version of the KiwiIRC webclient](https://r.robomwm.com/irc) or [dumcord](https://r.robomwm.com/dumcord)
