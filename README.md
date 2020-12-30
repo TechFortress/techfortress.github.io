@@ -20,7 +20,7 @@ The current map has existed since 2013, with no plans to reset.
 
 Tech Fortress differs from other vanilla servers in that it does not require a whitelist nor an omnipresent staff to maintain order. There are no teleportation commands, such as /home or /tp. All that exists gameplay-wise is free 24/7 property protection, so you can rest assured that your "Minecraft stuff" is safe while you attend to your real-world stuff.
 
-**IP: tf.robomwm.com**
+#### IP: tf.robomwm.com
 
 ### Team Fortress 2
 
