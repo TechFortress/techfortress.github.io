@@ -9,7 +9,3 @@ oscailte:
     github: TechFortress
   strings:
     hero_title: "Tech Fortress<br />A gaming community founded in 2013"
-
-header_pages:
-- chat.md
-- "[Steam](https://steamcommunity.com/groups/TechFortress)"
