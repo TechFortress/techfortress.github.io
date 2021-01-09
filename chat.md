@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chatroom
-permalink: /chat/
+permalink: /chat
 ---
 
 <head>
