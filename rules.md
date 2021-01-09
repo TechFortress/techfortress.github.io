@@ -6,22 +6,22 @@
 
 Participating in the Tech Fortress forum or our servers means you agree to these rules and any future modifications. Changes are [tracked here.](https://github.com/TechFortress/techfortress.github.io/commits/master/rules.md)
 
-## Summary
-
-1. Respect others
-1. Profanity, obscenity, vulgarity, etc. are prohibited
-1. Spamming and unsolicited advertising are prohibited
-1. Malicious messages and activities are prohibited
-1. Ban evasion under any form is not permitted
-1. Please use English.
-
-### Minecraft-specific
-
-1. You may not use client modifications that exploit or provide any mechanical advantage over the vanilla client
-1. Report all working exploits and bugs you discover or know about
-1. You must not significantly impact gameplay performance
-1. Respect other's property
-1. Do not attempt to restrict access to publicly-accessible areas
+> ## Summary
+> 
+> 1. Respect others
+> 1. Profanity, obscenity, vulgarity, etc. are prohibited
+> 1. Spamming and unsolicited advertising are prohibited
+> 1. Malicious messages and activities are prohibited
+> 1. Ban evasion under any form is not permitted
+> 1. Please use English.
+>
+> ### Minecraft-specific
+>
+> 1. You may not use client modifications that exploit or provide any mechanical advantage over the vanilla client
+> 1. Report all working exploits and bugs you discover or know about
+> 1. You must not significantly impact gameplay performance
+> 1. Respect other's property
+> 1. Do not attempt to restrict access to publicly-accessible areas
 
 # Rules
 
