@@ -1,12 +1,8 @@
-# Rules
-
-# Work in progress - not in effect
-
 > Please read and abide by these rules before playing on any of our servers or communicating on any of our established platforms (IRC, forum, etc.). We aim to keep the rules succinct and common-sense. If you have any questions, feel free to ask in chat.
 
 > You can appeal a ban via the [appeal form](https://techfortress.freshdesk.com/support/tickets/new).
 
-Participating in the Tech Fortress forum or our servers means you agree to these rules and any future modifications. Changes are tracked here. (TODO: insert link to commit history)
+Participating in the Tech Fortress forum or our servers means you agree to these rules and any future modifications. Changes are [tracked here.](https://github.com/TechFortress/techfortress.github.io/commits/master/rules.md)
 
 ## Summary
 
@@ -25,10 +21,11 @@ Participating in the Tech Fortress forum or our servers means you agree to these
 1. Respect other's property
 1. Do not attempt to restrict access to publicly-accessible areas
 
----
+# Rules
 
 1. Respect others
     1. Do not harass or threaten other users, or coordinate harassment on others.
+    1. Do not propagate false or deceptive information.
 1. Profanity, obscenity, vulgarity, etc. are prohibited
     - Censored/abbreviated foul language is not permitted
         - "heavily" abbreviated variants are permitted, but still discouraged
@@ -37,6 +34,7 @@ Participating in the Tech Fortress forum or our servers means you agree to these
     - Reptition of punctuation, letters, messages, words, etc. in short duration is prohibited.
 1. Malicious messages and activities are prohibited
     - Using deceptive links (phishing) to gather player information without consent is not permitted.
+    - Messages sent and activities performed with only malignant intent is not permitted.
 1. Ban evasion under any form is not permitted
     - Using an alternative account to evade a punishment will result in the immediate suspension of the alternative account and lengthening of your ban. If you wish to obtain more information about your ban, please use the [appeal form](https://techfortress.freshdesk.com/support/tickets/new)
     - Discussions of your ban, or other user's bans is discouraged. All discussion of bans should be done via the [appeal form.](https://techfortress.freshdesk.com/support/tickets/new)
