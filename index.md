@@ -11,7 +11,7 @@ We currently host two game servers:
 
 The Tech Fortress Minecraft server aims to provide the closest you can get to a vanilla survival Minecraft experience, while providing self-service protection against griefers. Join the near-vanilla experience at IP: tf.robomwm.com
 
-The current map has existed since 2013, with no plans to reset.
+The current map has existed since 2013, with no plans to reset. Went public in 2015.
 
 Tech Fortress differs from other vanilla servers in that it does not require a whitelist nor an omnipresent staff to maintain order. There are no teleportation commands, such as /home or /tp. All that exists gameplay-wise is free 24/7 property protection, so you can rest assured that your "Minecraft stuff" is safe while you attend to your real-world stuff.
 
