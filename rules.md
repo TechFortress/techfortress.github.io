@@ -1,3 +1,5 @@
+# Rules
+
 > Please read and abide by these rules before playing on any of our servers or communicating on any of our established platforms (IRC, forum, etc.). We aim to keep the rules succinct and common-sense. If you have any questions, feel free to ask in chat.
 
 > You can appeal a ban via the [appeal form](https://techfortress.freshdesk.com/support/tickets/new).
