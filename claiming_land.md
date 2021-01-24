@@ -1,3 +1,9 @@
+---
+layout: page
+title: Claiming land
+permalink: /claiming
+---
+
 <head>
     <style>
         .iframe-container 
@@ -17,12 +23,6 @@
         }
     </style>
  </head>
-
----
-layout: page
-title: Claiming land
-permalink: /claiming
----
 
 # How to claim land
 
