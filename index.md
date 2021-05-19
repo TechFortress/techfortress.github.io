@@ -17,6 +17,8 @@ Tech Fortress differs from other vanilla servers in that it does not require a w
 
 ### IP: `tf.robomwm.com`
 
+If the IP above does not work, try including the port number: `tf.robomwm.com:22333`
+
 ## Team Fortress 2
 
 A Mann vs. Machine server with unlimited money. Sometimes others are added. More info available at the [Steam group](https://steamcommunity.com/groups/TechFortress)
