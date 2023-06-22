@@ -24,6 +24,7 @@ permalink: /rules
     1. Censored/abbreviated foul language is not permitted
         - "heavily" abbreviated variants are permitted, but still discouraged
     1. This rule also applies to usernames
+    1. Messages or images of sexual or sexually-suggestive nature are not permitted
 1. Spamming and unsolicited advertising are prohibited
     1. Reptition of punctuation, letters, messages, words, etc. in short duration is prohibited.
 1. Malicious messages and activities are prohibited
